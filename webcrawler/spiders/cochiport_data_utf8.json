@@ -1,0 +1,47 @@
+{"cargo": ["CARGO"], "ata": ["ATA/ ETA"], "agent": ["AGENT"], "date": ["DATE"], "vessel": ["VESSEL"], "ie": ["I/E"], "quantity": ["QUANTITY    (MT/TEU) "]}
+{"cargo": ["CONTAINER"], "ata": ["12:00"], "agent": ["MBK LOGISTIX "], "date": ["08.03.2018"], "vessel": ["PAMBA 1"], "ie": ["I/E"], "quantity": []}
+{"cargo": ["METHANOL "], "ata": ["13:30"], "agent": ["JM BAXI"], "date": ["08.03.2018"], "vessel": ["DELICE"], "ie": ["I"], "quantity": ["5000"]}
+{"cargo": ["RESEARCH"], "ata": ["21:00"], "agent": ["JAIRAM & SONS"], "date": ["08.03.2018"], "vessel": ["S S KAMA"], "ie": ["O"], "quantity": []}
+{"cargo": ["CONTAINER"], "ata": ["23:30"], "agent": ["SHREYAS"], "date": ["08.03.2018"], "vessel": ["SSL MUMBAI"], "ie": ["I/E"], "quantity": ["700/700"]}
+{"cargo": ["CONTAINER"], "ata": ["18:00"], "agent": ["JAIRAM & SONS"], "date": ["09.03.2018"], "vessel": ["SCI MUMBAI"], "ie": ["I/E"], "quantity": ["1000/1000"]}
+{"cargo": ["CONTAINER"], "ata": ["20:00"], "agent": ["CMA CGM"], "date": ["09.03.2018"], "vessel": ["K PEGASUS"], "ie": ["I/E"], "quantity": ["200/150"]}
+{"cargo": ["METHANOL"], "ata": ["20:00"], "agent": ["ISS"], "date": ["09.03.2018"], "vessel": ["SEA HARVEST"], "ie": ["I"], "quantity": ["1763"]}
+{"cargo": ["CRUDE "], "ata": ["20:00"], "agent": ["JM BAXI"], "date": ["09.03.2018"], "vessel": ["JAG LATEEF"], "ie": ["I"], "quantity": ["141278"]}
+{"cargo": ["CONTAINER"], "ata": ["22:00"], "agent": ["SHREYAS"], "date": ["09.03.2018"], "vessel": ["SSL BHARAT"], "ie": ["I/E"], "quantity": ["200/250"]}
+{"cargo": ["CONTAINER"], "ata": ["6:00"], "agent": ["TCI SEAWAYS"], "date": ["10.03.2018"], "vessel": ["TCI ARJUN"], "ie": ["I/E"], "quantity": ["100/100"]}
+{"cargo": ["CONTAINER"], "ata": ["7:00"], "agent": ["EMIRATES"], "date": ["10.03.2018"], "vessel": ["EMIRATES WAFA"], "ie": ["I/E"], "quantity": []}
+{"cargo": ["PASSENGER"], "ata": ["7:00"], "agent": ["PEIRCE LESLIE"], "date": ["10.03.2018"], "vessel": ["LAGOONS"], "ie": ["O"], "quantity": []}
+{"cargo": ["CRUDE"], "ata": ["20:00"], "agent": ["ATLANTIC"], "date": ["10.03.2018"], "vessel": ["SAMURAI"], "ie": ["I"], "quantity": ["129794"]}
+{"cargo": ["CRUDE"], "ata": ["3:00"], "agent": ["INTEROCEAN"], "date": ["11.03.2018"], "vessel": ["17FEBRUARY"], "ie": ["I"], "quantity": ["130000"]}
+{"cargo": ["HSD "], "ata": ["6:00"], "agent": ["JM BAXI"], "date": ["11.03.2018"], "vessel": ["ARK PIONEER"], "ie": ["I"], "quantity": ["996"]}
+{"cargo": ["CONTAINER"], "ata": ["15:00"], "agent": ["MBK LOGISTIX "], "date": ["11.03.2018"], "vessel": ["SIMA BRIZO"], "ie": ["I/E"], "quantity": []}
+{"cargo": ["CONTAINER"], "ata": ["3:00"], "agent": ["MBK LOGISTIX "], "date": ["12.03.2018"], "vessel": ["ALS FIDES"], "ie": ["I/E"], "quantity": []}
+{"cargo": ["CRUISE "], "ata": ["5:30"], "agent": ["JM BAXI"], "date": ["12.03.2018"], "vessel": ["AIDA BELLA"], "ie": ["O"], "quantity": []}
+{"cargo": ["PASSENGER"], "ata": ["6:30"], "agent": ["PEIRCE LESLIE"], "date": ["12.03.2018"], "vessel": ["ARABIAN SEA"], "ie": ["O"], "quantity": []}
+{"cargo": ["PASSENGER"], "ata": ["7:00"], "agent": ["PEIRCE LESLIE"], "date": ["12.03.2018"], "vessel": ["CORALS"], "ie": ["O"], "quantity": []}
+{"cargo": ["ILMENITE SAND"], "ata": ["12:00"], "agent": ["PEARL SHIPPING"], "date": ["12.03.2018"], "vessel": ["RAINBOW IVY"], "ie": ["I"], "quantity": ["11948"]}
+{"cargo": ["CRUDE"], "ata": ["16:00"], "agent": ["ATLANTIC"], "date": ["12.03.2018"], "vessel": ["NORDIC HUNTER"], "ie": ["I"], "quantity": ["120000"]}
+{"cargo": ["CONTAINER"], "ata": ["17:00"], "agent": ["MAERSK"], "date": ["12.03.2018"], "vessel": ["ER SYDNEY"], "ie": ["I/E"], "quantity": ["600/730"]}
+{"cargo": ["STEEL CARGO"], "ata": ["6:00"], "agent": ["SHREYAS"], "date": ["13.3.2018"], "vessel": ["SSL BALAJI"], "ie": ["I"], "quantity": ["5200"]}
+{"cargo": ["FO 380+180"], "ata": ["6:00"], "agent": ["JM BAXI"], "date": ["13.3.2018"], "vessel": ["ORCHIDS "], "ie": ["I"], "quantity": ["5293+4372"]}
+{"cargo": ["CEMENT"], "ata": ["6:30"], "agent": ["MBK LOGISTIX "], "date": ["13.3.2018"], "vessel": ["DANAYA NAREE"], "ie": ["I"], "quantity": ["20500"]}
+{"cargo": ["CONTAINER"], "ata": ["5:30"], "agent": ["SHREYAS"], "date": ["14.03.2018"], "vessel": ["SSL BRAHMAPUTRA"], "ie": ["I/E"], "quantity": ["900/900"]}
+{"cargo": ["CONTAINER"], "ata": ["6:00"], "agent": ["TCI SEAWAYS"], "date": ["14.03.2018"], "vessel": ["TCI VIJAY"], "ie": ["I/E"], "quantity": ["200/250"]}
+{"cargo": ["PASSENGER"], "ata": ["6:30"], "agent": ["PEIRCE LESLIE"], "date": ["14.03.2018"], "vessel": ["LAKSHADWEEP SEA"], "ie": ["O"], "quantity": []}
+{"cargo": ["DREDGER"], "ata": ["10:00"], "agent": ["ATLANTIC"], "date": ["14.03.2018"], "vessel": ["MARINE XVIII"], "ie": ["O"], "quantity": []}
+{"cargo": ["CONTAINER"], "ata": ["6:00"], "agent": ["SHREYAS"], "date": ["15.03.2018"], "vessel": ["SSL KUTCH"], "ie": ["I/E"], "quantity": ["600/600"]}
+{"cargo": ["CEMENT"], "ata": ["6:30"], "agent": ["MBK LOGISTIX "], "date": ["15.03.2018"], "vessel": ["DARYA JAAN"], "ie": ["I"], "quantity": ["12500"]}
+{"cargo": ["PASSENGER"], "ata": ["7:00"], "agent": ["PEIRCE LESLIE"], "date": ["15.03.2018"], "vessel": ["LAGOONS"], "ie": ["O"], "quantity": []}
+{"cargo": ["CONTAINER"], "ata": ["10:30"], "agent": ["MBK LOGISTIX "], "date": ["15.03.2018"], "vessel": ["SARAYU"], "ie": ["I/E"], "quantity": []}
+{"cargo": ["MOP"], "ata": ["5:00"], "agent": ["INTEROCEAN"], "date": ["16.03.2018"], "vessel": ["BEKS NAZIK"], "ie": ["I"], "quantity": ["20000"]}
+{"cargo": ["PASSENGER"], "ata": ["6:30"], "agent": ["PEIRCE LESLIE"], "date": ["16.03.2018"], "vessel": ["CORALS"], "ie": ["O"], "quantity": []}
+{"cargo": ["PASSENGER"], "ata": ["6:30"], "agent": ["PEIRCE LESLIE"], "date": ["16.03.2018"], "vessel": ["ARABIAN SEA"], "ie": ["O"], "quantity": []}
+{"cargo": ["HSD + MS"], "ata": ["6:00"], "agent": ["JM BAXI"], "date": ["17.03.2018"], "vessel": ["JAG PRERANA"], "ie": ["I"], "quantity": ["5400"]}
+{"cargo": ["CONTAINER"], "ata": ["3:00"], "agent": ["EMIRATES"], "date": ["18.03.2018"], "vessel": ["TESSA"], "ie": ["I/E"], "quantity": []}
+{"cargo": ["G/CARGO"], "ata": ["6:00"], "agent": ["PEARL SHIPPING"], "date": ["18.03.2018"], "vessel": ["OCEAN FORTUNE"], "ie": ["I"], "quantity": ["371 (306 CASES)"]}
+{"cargo": ["CONTAINER"], "ata": ["18:30"], "agent": ["EMIRATES"], "date": ["18.03.2018"], "vessel": ["EMIRATES HANA"], "ie": ["I/E"], "quantity": []}
+{"cargo": ["CRUDE OIL"], "ata": ["6:00"], "agent": ["PEARL SHIPPING"], "date": ["19.03.2018"], "vessel": ["POSEIDON I"], "ie": ["I"], "quantity": ["100000"]}
+{"cargo": ["PASSENGER"], "ata": ["6:30"], "agent": ["PEIRCE LESLIE"], "date": ["20.03.2018"], "vessel": ["ARABIAN SEA"], "ie": ["O"], "quantity": []}
+{"cargo": ["PASSENGER"], "ata": ["7:00"], "agent": ["PEIRCE LESLIE"], "date": ["20.03.2018"], "vessel": ["LAGOONS"], "ie": ["O"], "quantity": []}
+{"cargo": ["PASSENGER"], "ata": ["7:00"], "agent": ["PEIRCE LESLIE"], "date": ["21.03.2018"], "vessel": ["CORALS"], "ie": ["O"], "quantity": []}
+{"cargo": ["MACHINERRY"], "ata": ["6:00"], "agent": ["PEARL SHIPPING"], "date": ["22.03.2018"], "vessel": ["TASMANIC WINTER"], "ie": ["I"], "quantity": ["1475(65 PKGS)"]}
